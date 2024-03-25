@@ -1,0 +1,3 @@
+
+gameElement.addClass('game-preview');
+
